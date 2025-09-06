@@ -1,0 +1,4 @@
+baseURL = 'https://meloppeitreet.github.io/'
+languageCode = 'en-us'
+title = 'Meloppeitreet'
+theme = 'hugo-theme-stack'

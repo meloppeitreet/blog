@@ -1,0 +1,4 @@
+[submodule "meloppeitreet-blog/public"]
+	path = meloppeitreet-blog/public
+	url = https://github.com/meloppeitreet/meloppeitreet.github.io.git
+	branch = main
